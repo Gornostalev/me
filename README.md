@@ -1,4 +1,3 @@
- 
-<a align="center" href="https://github.com/user-attachments/assets/00be80e7-fc6e-47b0-892a-ce68a9c0bc84">
-  <img align="center" src="https://github.com/user-attachments/assets/00be80e7-fc6e-47b0-892a-ce68a9c0bc84" alt="Alita GIF" style="width:auto; height:auto"/>
+<a align="center" href="https://github.com/user-attachments/assets/350ba536-2a35-4132-97a7-45f7a9fc8a2f">
+  <img align="center" src="https://github.com/user-attachments/assets/350ba536-2a35-4132-97a7-45f7a9fc8a2f" alt="Alita GIF" style="width:auto; height:auto"/>
 </a>
