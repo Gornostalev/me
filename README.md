@@ -1,5 +1,4 @@
  
  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/85c0fb34-3670-43d0-818e-869e1e27bd1e" alt="animated" />
-</p>
+ <img width="240" height="240" alt="daIliNet (2)" src="https://github.com/user-attachments/assets/6a94352b-7f87-4f82-9a4b-7d4529a5eb24" />
+
